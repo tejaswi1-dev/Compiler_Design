@@ -22,6 +22,7 @@ It introduces **region partitioning** (using strongly connected components) to o
 
 ## 🧩 System Architecture
 
+<img width="1222" height="847" alt="image" src="https://github.com/user-attachments/assets/abd993e0-88e2-4af5-85a4-0fcf94a96aa2" />
 
 IR Input → Parsing → CFG Construction → Liveness Analysis → Region Partitioning →
 Graph Coloring Register Allocation → Code Generation → Visualization
