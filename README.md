@@ -85,11 +85,11 @@ python region_alloc_cfg.py program.ir
 
 Step 4: Observe Output
 
+<img width="600" height="450" alt="region_3_graph" src="https://github.com/user-attachments/assets/a7714d96-7fe7-4da9-8c56-eaa431b9aa64" />
+
 <img width="600" height="450" alt="region_0_graph" src="https://github.com/user-attachments/assets/19243d34-8285-486f-89f0-ccfa3784a6ad" />
 
 <img width="600" height="450" alt="region_1_graph" src="https://github.com/user-attachments/assets/f755b9d6-ac76-40fa-961a-327c960a69b1" />
-
-<img width="600" height="450" alt="region_3_graph" src="https://github.com/user-attachments/assets/a7714d96-7fe7-4da9-8c56-eaa431b9aa64" />
 
 Console displays:
 
