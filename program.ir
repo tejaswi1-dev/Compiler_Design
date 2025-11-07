@@ -1,0 +1,14 @@
+
+start:
+sum = 0
+i = 0
+L1:
+temp = i * 1
+if temp goto L2     
+goto L3
+L2:
+sum = sum + i
+i = i + 1
+goto L1
+L3:
+print sum
